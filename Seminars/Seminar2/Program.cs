@@ -52,9 +52,6 @@ Console.WriteLine($"New version of {randomNumber} is {newNumber}");
 /*
 void IsDivisionable(int num1, int num2)
 
-
-
-
 {
     int reminder = num2 % num1;
 
