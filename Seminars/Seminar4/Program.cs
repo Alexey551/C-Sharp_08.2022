@@ -67,7 +67,7 @@ int[] CreateRandomArray(int size, int minValue, int maxValue)
 {
     int[] newArray = new int[size];
 
-    for (int i = 0; i < 8; i++)
+    for (int i = 0; i < size; i++)
         newArray[i] = new Random().Next(minValue, maxValue + 1);
 
     return newArray;
