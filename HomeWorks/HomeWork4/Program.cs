@@ -52,7 +52,7 @@ Console.Write($"The sum of the digits in a number {a} = {n}");
 // 1, 2, 5, 7, 19 -> [1, 2, 5, 7, 19]
 // 6, 1, 33 -> [6, 1, 33]
 
-
+/*
 int[] CreateArray(int size)
 {
     int[] arrayNum = new int[size];
@@ -76,3 +76,4 @@ int num = Convert.ToInt32(Console.ReadLine());
 
 int[] myArray = CreateArray(num);
 ShowArray(myArray);
+*/
