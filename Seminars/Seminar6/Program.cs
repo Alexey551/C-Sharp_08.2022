@@ -113,7 +113,7 @@ ShowArray(Fibbonachi(x, y, z));
 //---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 // Задача 4. Напишите программу, которая будет преобразовывать десятичное число в двоичное.
-/*
+
 void DecimalToBinary(int Num)
 {
     string result = string.Empty;
@@ -130,4 +130,3 @@ int num = Convert.ToInt32(Console.ReadLine());
 
 Console.Write($"Number {num} to binaty is ");
 DecimalToBinary(num);
-*/
