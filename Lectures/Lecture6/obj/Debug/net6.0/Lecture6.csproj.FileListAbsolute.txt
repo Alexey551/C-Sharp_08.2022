@@ -1,0 +1,15 @@
+D:\Обучение\GeekBrains\Знакомство с языками программирования\Study of C#\Lectures\Lecture6\bin\Debug\net6.0\Lecture6.exe
+D:\Обучение\GeekBrains\Знакомство с языками программирования\Study of C#\Lectures\Lecture6\bin\Debug\net6.0\Lecture6.deps.json
+D:\Обучение\GeekBrains\Знакомство с языками программирования\Study of C#\Lectures\Lecture6\bin\Debug\net6.0\Lecture6.runtimeconfig.json
+D:\Обучение\GeekBrains\Знакомство с языками программирования\Study of C#\Lectures\Lecture6\bin\Debug\net6.0\Lecture6.dll
+D:\Обучение\GeekBrains\Знакомство с языками программирования\Study of C#\Lectures\Lecture6\bin\Debug\net6.0\Lecture6.pdb
+D:\Обучение\GeekBrains\Знакомство с языками программирования\Study of C#\Lectures\Lecture6\obj\Debug\net6.0\Lecture6.csproj.AssemblyReference.cache
+D:\Обучение\GeekBrains\Знакомство с языками программирования\Study of C#\Lectures\Lecture6\obj\Debug\net6.0\Lecture6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\GeekBrains\Знакомство с языками программирования\Study of C#\Lectures\Lecture6\obj\Debug\net6.0\Lecture6.AssemblyInfoInputs.cache
+D:\Обучение\GeekBrains\Знакомство с языками программирования\Study of C#\Lectures\Lecture6\obj\Debug\net6.0\Lecture6.AssemblyInfo.cs
+D:\Обучение\GeekBrains\Знакомство с языками программирования\Study of C#\Lectures\Lecture6\obj\Debug\net6.0\Lecture6.csproj.CoreCompileInputs.cache
+D:\Обучение\GeekBrains\Знакомство с языками программирования\Study of C#\Lectures\Lecture6\obj\Debug\net6.0\Lecture6.dll
+D:\Обучение\GeekBrains\Знакомство с языками программирования\Study of C#\Lectures\Lecture6\obj\Debug\net6.0\refint\Lecture6.dll
+D:\Обучение\GeekBrains\Знакомство с языками программирования\Study of C#\Lectures\Lecture6\obj\Debug\net6.0\Lecture6.pdb
+D:\Обучение\GeekBrains\Знакомство с языками программирования\Study of C#\Lectures\Lecture6\obj\Debug\net6.0\Lecture6.genruntimeconfig.cache
+D:\Обучение\GeekBrains\Знакомство с языками программирования\Study of C#\Lectures\Lecture6\obj\Debug\net6.0\ref\Lecture6.dll
