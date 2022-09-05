@@ -325,3 +325,59 @@ int[,,] resultArray = DeleteRepeatArray(myArray);
 Console.WriteLine($"This is how the matrix looks like with replaced, non-repeating digits: ");
 Show3DArray(resultArray);
 */
+//--------------------------------------------------------------------------------------------------------------------------------
+
+//Задача 62. Напишите программу, которая заполнит спирально массив 4 на 4.
+// Например, на выходе получается вот такой массив:
+// 01 02 03 04
+// 12 13 14 05
+// 11 16 15 06
+// 10 09 08 07
+
+/*
+Console.Clear();
+int[,] SpiralArray(int size)
+{
+    int[,] newArray = new int[size, size];
+
+    int current = 1;
+    int i = 0;
+    int j = 0;
+
+    while (current <= newArray.GetLength(0) * newArray.GetLength(1))
+    {
+        newArray[i, j] = current;
+        current++;
+        if (i <= j + 1 && i + j < newArray.GetLength(1) - 1)
+            j++;
+        else if (i < j && i + j >= newArray.GetLength(0) - 1)
+            i++;
+        else if (i >= j && i + j > newArray.GetLength(1) - 1)
+            j--;
+        else
+            i--;
+    }
+    return newArray;
+}
+
+void ShowArray(int[,] array)
+{
+    Console.WriteLine();
+    for (int i = 0; i < array.GetLength(0); i++)
+    {
+        for (int j = 0; j < array.GetLength(1); j++)
+        {
+            Console.Write($"\t{array[i,j]}");
+        }
+        Console.WriteLine();
+        Console.WriteLine();
+    }
+    Console.WriteLine();
+}
+
+Console.Write("Input n: ");
+int a = Convert.ToInt32(Console.ReadLine());
+
+int[,] myArray = SpiralArray(a);
+ShowArray(myArray);
+*/
